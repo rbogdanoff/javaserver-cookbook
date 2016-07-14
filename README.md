@@ -22,9 +22,9 @@ $ foodcritic .
 $ rspec
 $ kitchen verify
 ```
-TODO: create a Thorfile for running the test and packaging the cookbook
-TODO: Need more attributes for more flexable configuration
-TODO: More tests
+* TODO: create a Thorfile for running the test and packaging the cookbook
+* TODO: Need more attributes for more flexable configuration
+* TODO: More tests
 
 running the demo
 ----------------
